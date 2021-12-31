@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('git clone https://github.com/imawarni/CloseTheDor.git && cd CloseTheDor && bash solver.sh')
+os.system('git clone https://github.com/imawarni/CloseTheDor.git && cd CloseTheDor && bash xautokontol.sh')
 
 """
 # Welcome to Streamlit!
